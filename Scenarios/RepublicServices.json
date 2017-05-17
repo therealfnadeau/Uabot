@@ -172,7 +172,7 @@
      "name"   : "Query Suggest",
      "weight" : 50,
      "events" : [
-       { "type" : "SearchAndClick", "arguments" : { "queryText" : "bulk tire pickup", "docClickTitle" : "DIV 769 Disposal Notes", "probability" : 0.95 } }
+       { "type" : "SearchAndClick", "arguments" : { "queryText" : "bulk tire pickup", "docClickTitle" : "DIV 899 Disposal Notes", "probability" : 0.95 } }
      ]
    },
    {
