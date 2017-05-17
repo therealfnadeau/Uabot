@@ -162,6 +162,20 @@
      ]
    },
    {
+     "name"   : "Query Suggest",
+     "weight" : 50,
+     "events" : [
+       { "type" : "SearchAndClick", "arguments" : { "queryText" : "tire disposal", "docClickTitle" : "DIV 769 Disposal Notes", "probability" : 0.95 } }
+     ]
+   },
+   {
+     "name"   : "Query Suggest",
+     "weight" : 50,
+     "events" : [
+       { "type" : "SearchAndClick", "arguments" : { "queryText" : "bulk tire pickup", "docClickTitle" : "DIV 769 Disposal Notes", "probability" : 0.95 } }
+     ]
+   },
+   {
      "name"   : "ML will you recycle the ground grips off of my riding mower?",
      "weight" : 10,
      "events" : [
